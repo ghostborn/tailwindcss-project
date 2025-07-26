@@ -2,6 +2,7 @@
 import HelloWorld from './components/HelloWorld.vue'
 import Blog1 from './components/Blog1.vue'
 import Blog2 from "./components/Blog2.vue";
+import Blog3 from "./components/Blog3.vue";
 </script>
 
 <template>
@@ -16,7 +17,7 @@ import Blog2 from "./components/Blog2.vue";
   <!-- <HelloWorld msg="Vite + Vue" /> -->
 
 
-   <Blog2 />
+   <Blog3 />
 </template>
 
 <style scoped>
