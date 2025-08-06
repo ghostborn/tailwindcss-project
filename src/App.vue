@@ -5,6 +5,7 @@ import Blog2 from "./components/Blog2.vue";
 import Blog3 from "./components/Blog3.vue";
 import Contact1 from "./components/Contact1.vue";
 import Contact2 from "./components/Contact2.vue";
+import Content1 from "./components/Content1.vue";
 
 </script>
 
@@ -19,7 +20,7 @@ import Contact2 from "./components/Contact2.vue";
   </div> -->
   <!-- <HelloWorld msg="Vite + Vue" /> -->
 
-  <Contact2/>
+  <Content1/>
 
 
 </template>
