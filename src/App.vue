@@ -9,6 +9,8 @@ import Content1 from "./components/Content1.vue";
 import Content2 from "./components/Content2.vue";
 import Content3 from "./components/Content3.vue";
 import Content4 from "./components/Content4.vue";
+import Content5 from "./components/Content5.vue";
+import Content6 from "./components/Content6.vue";
 
 </script>
 
@@ -23,7 +25,7 @@ import Content4 from "./components/Content4.vue";
   </div> -->
   <!-- <HelloWorld msg="Vite + Vue" /> -->
 
-  <Content4/>
+  <Content6/>
 
 
 </template>
