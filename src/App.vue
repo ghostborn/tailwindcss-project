@@ -11,6 +11,7 @@ import Content3 from "./components/Content3.vue";
 import Content4 from "./components/Content4.vue";
 import Content5 from "./components/Content5.vue";
 import Content6 from "./components/Content6.vue";
+import Content7 from "./components/Content7.vue";
 
 </script>
 
@@ -25,7 +26,7 @@ import Content6 from "./components/Content6.vue";
   </div> -->
   <!-- <HelloWorld msg="Vite + Vue" /> -->
 
-  <Content6/>
+  <Content7/>
 
 
 </template>
