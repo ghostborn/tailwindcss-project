@@ -17,6 +17,8 @@ import Cta1 from "./components/Cta1.vue";
 import Cta2 from "./components/Cta2.vue";
 import Cta3 from "./components/Cta3.vue";
 import Cta4 from "./components/Cta4.vue";
+import Ecommerce1 from "./components/Ecommerce1.vue";
+import Ecommerce2 from "./components/Ecommerce2.vue";
 
 </script>
 
@@ -31,7 +33,7 @@ import Cta4 from "./components/Cta4.vue";
   </div> -->
   <!-- <HelloWorld msg="Vite + Vue" /> -->
 
-  <Cta4/>
+  <Ecommerce2/>
 
 
 </template>
