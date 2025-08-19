@@ -19,6 +19,10 @@ import Cta3 from "./components/Cta3.vue";
 import Cta4 from "./components/Cta4.vue";
 import Ecommerce1 from "./components/Ecommerce1.vue";
 import Ecommerce2 from "./components/Ecommerce2.vue";
+import Ecommerce3 from "./components/Ecommerce3.vue";
+import Footer1 from "./components/Footer1.vue";
+import Gallery1 from "./components/Gallery1.vue";
+import Gallery2 from "./components/Gallery2.vue";
 
 </script>
 
@@ -33,7 +37,7 @@ import Ecommerce2 from "./components/Ecommerce2.vue";
   </div> -->
   <!-- <HelloWorld msg="Vite + Vue" /> -->
 
-  <Ecommerce2/>
+  <Gallery2/>
 
 
 </template>
