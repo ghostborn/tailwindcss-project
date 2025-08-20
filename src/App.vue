@@ -23,6 +23,9 @@ import Ecommerce3 from "./components/Ecommerce3.vue";
 import Footer1 from "./components/Footer1.vue";
 import Gallery1 from "./components/Gallery1.vue";
 import Gallery2 from "./components/Gallery2.vue";
+import Gallery3 from "./components/Gallery3.vue";
+import Header1 from "./components/Header1.vue";
+import Hero1 from "./components/Hero1.vue";
 
 </script>
 
@@ -37,7 +40,7 @@ import Gallery2 from "./components/Gallery2.vue";
   </div> -->
   <!-- <HelloWorld msg="Vite + Vue" /> -->
 
-  <Gallery2/>
+  <Hero1/>
 
 
 </template>
