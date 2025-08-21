@@ -26,6 +26,10 @@ import Gallery2 from "./components/Gallery2.vue";
 import Gallery3 from "./components/Gallery3.vue";
 import Header1 from "./components/Header1.vue";
 import Hero1 from "./components/Hero1.vue";
+import Pricing1 from "./components/Pricing1.vue";
+import Pricing2 from "./components/Pricing2.vue";
+import Statistic1 from "./components/Statistic1.vue";
+import Statistic2 from "./components/Statistic2.vue";
 
 </script>
 
@@ -40,7 +44,7 @@ import Hero1 from "./components/Hero1.vue";
   </div> -->
   <!-- <HelloWorld msg="Vite + Vue" /> -->
 
-  <Hero1/>
+  <Statistic2/>
 
 
 </template>
