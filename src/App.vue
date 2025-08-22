@@ -30,6 +30,8 @@ import Pricing1 from "./components/Pricing1.vue";
 import Pricing2 from "./components/Pricing2.vue";
 import Statistic1 from "./components/Statistic1.vue";
 import Statistic2 from "./components/Statistic2.vue";
+import Step1 from "./components/Step1.vue";
+import Team1 from "./components/Team1.vue";
 
 </script>
 
@@ -44,7 +46,7 @@ import Statistic2 from "./components/Statistic2.vue";
   </div> -->
   <!-- <HelloWorld msg="Vite + Vue" /> -->
 
-  <Statistic2/>
+  <Team1/>
 
 
 </template>

@@ -5,15 +5,17 @@
         <h1 class="sm:text-4xl text-3xl mb-2 text-gray-900">Pricing</h1>
         <p class="leading-relaxed text-base mx-auto lg:w-2/3">Banh mi cornhole echo park skateboard authentic crucifix neutra tilde lyft biodiesel artisan direct trade mumblecore 3 wolf moon twee</p>
       </div>
-      
+
       <div class="lg:w-2/3 w-full mx-auto overflow-auto">
         <table class="table-auto w-full text-left whitespace-no-wrap">
           <thead>
+          <tr>
             <th class="bg-gray-100 px-4 py-3 font-medium tracking-wider text-gray-900 text-sm rounded-tl rounded-bl">Plan</th>
             <th class="bg-gray-100 px-4 py-3 font-medium tracking-wider text-gray-900 text-sm">Speed</th>
             <th class="bg-gray-100 px-4 py-3 font-medium tracking-wider text-gray-900 text-sm">Storage</th>
             <th class="bg-gray-100 px-4 py-3 font-medium tracking-wider text-gray-900 text-sm">Price</th>
             <th class="w-10 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-100 rounded-tr rounded-br"></th>
+          </tr>
           </thead>
           <tbody>
           <tr>
@@ -22,7 +24,7 @@
             <td class="px-4 py-3">15 GB</td>
             <td class="px-4 py-3 text-lg text-gray-900">Free</td>
             <td class="w-10 text-center">
-              <input type="radio" name="plan">
+              <input name="plan" type="radio">
             </td>
           </tr>
           <tr>
@@ -60,7 +62,7 @@
   </section>
 </template>
 
-<script setup lang="ts">
+<script lang="ts" setup>
 
 </script>
 
